@@ -1,0 +1,22 @@
+.navbar-nav {
+    margin-left: auto;
+}
+
+h4 {
+    text-align: center;
+}
+
+#aboutme {
+    width: 100%;
+    height: auto;
+}
+
+#h3-aboutme {
+    text-align: center;
+}
+
+#form {
+    padding: 25px;
+    background-color: #E9E6E6;
+    border-radius: 5px;
+}
