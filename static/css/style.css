@@ -15,8 +15,42 @@ h4 {
     text-align: center;
 }
 
-#form {
+form {
     padding: 25px;
     background-color: #E9E6E6;
     border-radius: 5px;
 }
+
+img {
+    margin-left: 2px;
+
+}
+.row_img {
+    
+    background-color: #E9E6E6;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p#disclaimer {
+    font-size: 10px;
+    font-style: oblique;
+    text-align: center;
+}
+
+.chart-info {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+#prediction {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.data_table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
